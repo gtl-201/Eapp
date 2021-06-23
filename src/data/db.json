@@ -1,0 +1,552 @@
+{
+  "exercisesDB": [
+    {
+      "id": 1,
+      "title": "Job In Life",
+      "VA": 100,
+      "AV": 100,
+      "L": 100
+    }
+  ],
+  "exerciseUnit1DB": [
+    {
+      "id": 1,
+      "type": "",
+      "eng": "Bodyguard",
+      "vi": "vệ sĩ",
+      "na": "ˈbɒdɪˌgɑːd",
+      "uri":"https://lh3.googleusercontent.com/proxy/-BAoJ0D-t5iRyY8prvaQ8m2ZSI6iKUGHY0x_YsvXXO_muoWG4E3NxSKFSLPhq2JBaoRpyT5zLCoC0AwRRLzPPkx0-Zulgk2EAkHn8YiVW0r9c9LHXZ78sHM2L1hw-KKOi2Iwaru0fUr3tVUy",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "bảo vệ"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "nhân viên vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "diễn viên"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "",
+      "eng": "Judge",
+      "vi": "quan tòa",
+      "na": "ˈʤʌʤ",
+      "uri":"https://image.freepik.com/free-vector/judge-holding-gavel_245150-46.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "cai ngục"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "nv y tế"
+        },
+        {
+          "index": 4,
+          "content": "pháp y"
+        },
+        {
+          "index": 5,
+          "content": "tù nhân"
+        },
+        {
+          "index": 6,
+          "content": "đầu bếp"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "",
+      "eng": "Programmer",
+      "vi": "lập trình viên",
+      "na": "ˈprəʊgræmə",
+      "uri":"https://img.freepik.com/free-vector/programmer-working-with-sql_52683-22997.jpg?size=338&ext=jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "chuyên viên thống kê"
+        },
+        {
+          "index": 2,
+          "content": "nv thiết kế"
+        },
+        {
+          "index": 3,
+          "content": "nv vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "thư ký"
+        },
+        {
+          "index": 6,
+          "content": "nv bán hàng"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "",
+      "eng": "Lawyer",
+      "vi": "luật sư",
+      "na": "ˈlɔːjə",
+      "uri":"https://thumbs.dreamstime.com/b/female-judge-lawyer-carry-document-holding-gavel-vector-illustration-judge-lawyer-carry-document-holding-gavel-female-judge-170237027.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "quan toà"
+        },
+        {
+          "index": 2,
+          "content": "người phán sử"
+        },
+        {
+          "index": 3,
+          "content": "lính"
+        },
+        {
+          "index": 4,
+          "content": "cute"
+        },
+        {
+          "index": 5,
+          "content": "lễ tân"
+        },
+        {
+          "index": 6,
+          "content": "giám đốc"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "",
+      "eng": "Software developer",
+      "vi": "nhân viên phát triển phần mềm",
+      "na": "ˈsɒftweə dɪˈvɛləpə",
+      "uri":"https://www.thebalancecareers.com/thmb/Z0MftHpO6GDGMVhDn4FOsQoeQ0A=/1500x1000/filters:fill(auto,1)/software-developer-job-description-salary-and-skills-2061833-Final_HL-7aa5ed68b68744c799c335ba344ec9d4.png",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "lập trình viên"
+        },
+        {
+          "index": 2,
+          "content": "siêu nhân"
+        },
+        {
+          "index": 3,
+          "content": "nv an ninh mạng"
+        },
+        {
+          "index": 4,
+          "content": "nv thiết kế"
+        },
+        {
+          "index": 5,
+          "content": "nhà tạo mẫu tóc"
+        },
+        {
+          "index": 6,
+          "content": "thợ xây"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "",
+      "eng": "Actress ",
+      "vi": "Nữ diễn viên",
+      "na": "ˈæktrəs",
+      "uri":"https://image.thanhnien.vn/1024/uploaded/trangpth/2020_05_19/anh-422-1549_banp.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nam diễn viên"
+        },
+        {
+          "index": 2,
+          "content": "nv tiếp thị"
+        },
+        {
+          "index": 3,
+          "content": "học sinh nu nốc :)"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước may mắn"
+        },
+        {
+          "index": 5,
+          "content": "dảk dảk brunh brunh"
+        },
+        {
+          "index": 6,
+          "content": "trẻ trâu"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "",
+      "eng": "Accountant",
+      "vi": "kế toán",
+      "na": "əˈkaʊntənt",
+      "uri":"https://vieclamtiengnhat.com.vn/job-cover/1500bnh_tn_accountant_cho_cong_ty_chui_hng_bn_l_ca_nht_20200803052118.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "thu ngân"
+        },
+        {
+          "index": 2,
+          "content": "kiểm kho"
+        },
+        {
+          "index": 3,
+          "content": "nhân viên vệ sinh"
+        },
+        {
+          "index": 4,
+          "content": "thợ sửa ống nước"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "quản lý"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "",
+      "eng": "Marketing director",
+      "vi": "gám đốc marketing",
+      "na": "ˈmɑːkɪtɪŋ dɪˈrɛktə",
+      "uri":"https://timviec365.com/pictures/images/marketing-director-la-gi-5.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "nhà định hướng"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "lãnh đạo"
+        },
+        {
+          "index": 4,
+          "content": "nhà thiết kế thười trang"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "trẩu tre"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "",
+      "eng": "Actor",
+      "vi": "Nam diễn viên",
+      "na": "ˈæktə",
+      "uri":"https://image-us.eva.vn/upload/2-2021/images/2021-05-12/dang-cap-dep-trai-cua-song-joong-ki-ban-dien-nam-mai-ngam-den-muc-quen-luon-thoai-vincenzo-05-1620813505-499-width650height975.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nữ diễn viên"
+        },
+        {
+          "index": 2,
+          "content": "Công nhân lắp ráp"
+        },
+        {
+          "index": 3,
+          "content": "lãnh đạo"
+        },
+        {
+          "index": 4,
+          "content": "nhà thiết kế thười trang"
+        },
+        {
+          "index": 5,
+          "content": "Người giữ trẻ hộ"
+        },
+        {
+          "index": 6,
+          "content": "Người bán thịt"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "",
+      "eng": "Butcher",
+      "vi": "Người bán thịt",
+      "na": "ˈbʊtʃə",
+      "uri":"https://vieclamdaubep.vn/wp-content/uploads/2018/12/butcher-can-nhieu-yeu-to.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "nhà định hướng"
+        },
+        {
+          "index": 2,
+          "content": "công an"
+        },
+        {
+          "index": 3,
+          "content": "lãnh đạo"
+        },
+        {
+          "index": 4,
+          "content": "nhà thiết kế thười trang"
+        },
+        {
+          "index": 5,
+          "content": "người mẫu"
+        },
+        {
+          "index": 6,
+          "content": "trẩu tre"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "",
+      "eng": "Businessman",
+      "vi": "Nam doanh nhân",
+      "na": "ˈbiznəsmæn",
+      "uri":"https://image.shutterstock.com/image-photo/image-successful-businessman-30s-suit-260nw-1229715442.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nhà nghiên cứu"
+        },
+        {
+          "index": 2,
+          "content": "Nhân viên thu ngân"
+        },
+        {
+          "index": 3,
+          "content": "Thợ mộc"
+        },
+        {
+          "index": 4,
+          "content": "Nhân viên môi trường"
+        },
+        {
+          "index": 5,
+          "content": "Ủy viên hội đồng"
+        },
+        {
+          "index": 6,
+          "content": "Người quét dọn"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "",
+      "eng": "Custodian",
+      "vi": "kʌˈstəʊdiən",
+      "na": "Người quét dọn",
+      "uri":"https://previews.123rf.com/images/andreypopov/andreypopov1510/andreypopov151000404/46636881-happy-janitors-with-vacuum-cleaner-and-cleaning-equipments-in-office.jpg",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nhà nghiên cứu"
+        },
+        {
+          "index": 2,
+          "content": "Nhân viên thu ngân"
+        },
+        {
+          "index": 3,
+          "content": "Thợ mộc"
+        },
+        {
+          "index": 4,
+          "content": "Nhân viên môi trường"
+        },
+        {
+          "index": 5,
+          "content": "Ủy viên hội đồng"
+        },
+        {
+          "index": 6,
+          "content": "Kỹ sư phần mềm"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "",
+      "eng": "Child day-care worker",
+      "vi": "Giáo viên nuôi dạy trẻ",
+      "na": "tʃaildˈdeiˌkerˈwɜːkə",
+      "uri":"https://images.theconversation.com/files/229194/original/file-20180725-194124-1bjlv4t.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Công chức nhà nước"
+        },
+        {
+          "index": 2,
+          "content": "Nhân viên thu ngân"
+        },
+        {
+          "index": 3,
+          "content": "nhà trẻ"
+        },
+        {
+          "index": 4,
+          "content": "Nhân viên giao hàng"
+        },
+        {
+          "index": 5,
+          "content": "Công nhân bốc xếp"
+        },
+        {
+          "index": 6,
+          "content": "Người quét dọn"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "",
+      "eng": "Dockworker",
+      "vi": "Công nhân cảng",
+      "na": "ˈdɑːˌkwərkə",
+      "uri":"https://www.gannett-cdn.com/presto/2021/03/18/NFTU/5675ddb0-fae6-4760-8aac-e74547601b50-FLJAX_031921_PortWorker_11.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nhân viên nhập liệu"
+        },
+        {
+          "index": 2,
+          "content": "Nhân viên thu ngân"
+        },
+        {
+          "index": 3,
+          "content": "Thợ mộc"
+        },
+        {
+          "index": 4,
+          "content": "Nhân viên môi trường"
+        },
+        {
+          "index": 5,
+          "content": "Ủy viên hội đồng"
+        },
+        {
+          "index": 6,
+          "content": "Nha sĩ"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "",
+      "eng": "Dentist",
+      "vi": "Nha sĩ",
+      "na": "ˈdentist",
+      "uri":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQopgpx4xw5I_nGTjPnBBt1mddLH0egaLHQ&usqp=CAU",
+      "wrongVi": [
+        {
+          "index": 1,
+          "content": "Nhà nghiên cứu"
+        },
+        {
+          "index": 2,
+          "content": "Nhân viên thu ngân"
+        },
+        {
+          "index": 3,
+          "content": "Thợ mộc"
+        },
+        {
+          "index": 4,
+          "content": "Nhân viên môi trường"
+        },
+        {
+          "index": 5,
+          "content": "Ủy viên hội đồng"
+        },
+        {
+          "index": 6,
+          "content": "Người quét dọn"
+        }
+      ]
+    }
+  ],
+  "storeDB": [
+    {
+      "id": 1,
+      "url": "https://i.pinimg.com/564x/21/03/27/2103275e92f9072c37468942db702e59.jpg",
+      "name": "Family And Friends 1",
+      "author": "gtl-201",
+      "des": "This book suiable for beginer Lear English",
+      "price": 10,
+      "readDemo": "IEZhbWlseSBhbmQgRnJpZW5kcyBsw6AgY2jGsMahbmcgdHLDrG5oIGjhu41jIHRp4bq/bmcgQW5oIGJhbyBn4buTbSAzIGPhuqVwIMSR4buZIGTDoG5oIGNobyBo4buNYyBzaW5oIHRp4buDdSBo4buNYy4NCg0KIFPDoWNoIHPhu60gZOG7pW5nIGNoxrDGoW5nIHRyw6xuaCBnaeG6o25nIGThuqF5IG5n4buvIHBow6FwIHNvbmcgc29uZyBsdXnhu4duIHThuq1wIGPDoWMga8SpIG7Eg25nIHbDoCBuZ+G7ryDDom0uIFbhu5tpIGNoxrDGoW5nIHRyw6xuaCBk4bqheSB2w6AgaOG7jWMgbmjGsCB0aOG6vywgaOG7jWMgc2luaCBjw7MgdGjhu4MgcGjDoXQgdHJp4buDbiDEkcaw4bujYyBz4buxIHThu7EgdGluIHbDoCBraOG6oyBuxINuZyBnaWFvIHRp4bq/cCB0aeG6v25nIEFuaCBoaeG7h3UgcXXhuqMsIGPFqW5nIG5oxrAgY8OhYyBlbSBjw7MgdGjhu4MgaGnhu4N1IHbDoCB44butIGzDrSB0aMO0bmcgdGluIHThu6sgbmhp4buBdSBuZ3Xhu5NuIGtow6FjIG5oYXUuDQoNCiBGYW1pbHkgYW5kIEZyaWVuZHMga+G6v3QgaOG7o3AgaGnhu4d1IHF14bqjIHBoxrDGoW5nIHBow6FwIGdp4bqjbmcgZOG6oXkgdGnhur9uZyBBbmggY+G7p2EgbmfGsOG7nWkgYuG6o24geOG7qSB24bubaSBwaMawxqFuZyBwaMOhcCBnaeG6o25nIGThuqF5IHRp4bq/bmcgQW5oIGNobyBuZ8aw4budaSBo4buNYyBuZ2/huqFpIG5n4buvLg=="
+    },
+    {
+      "id": 2,
+      "url": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/34/CharlottevaWilbur.jpg/220px-CharlottevaWilbur.jpg",
+      "name": "Charlotte And Wilbur",
+      "author": "Gart William",
+      "des": "Romantic story about girl and her dog",
+      "price": 15,
+      "readDemo": ""
+    },
+    {
+      "id": 3,
+      "url": "https://bizweb.dktcdn.net/100/326/228/products/the-house-on-mango-street-by-sandra-cisneros.jpg?v=1546509898017",
+      "name": "The house on Mangor Street",
+      "author": "West of Sun",
+      "des": "Vintage Contemporaries",
+      "price": 20,
+      "readDemo": ""
+    }
+  ]
+}
