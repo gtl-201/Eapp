@@ -171,7 +171,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
     Math.floor(Math.random() * (4 + 0))
   );
 
-  const renderWrongAnswerAv = ({ item = '' }) => {
+  const renderWrongAnswerAv = ({item = any}) => {
     return (
       <View>
         {numWrong[0] == item.id ||
@@ -213,7 +213,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
     put();
   }
 
-  const renderItemAV = ({ item = '' }) => {
+  const renderItemAV = ({item = any}) => {
     // console.log(currentQuestion)
     // console.log(QuestionNumArr.length)
     return (
@@ -222,7 +222,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
           randomIndex == 0 ?
             <View style={tailwind('px-3')}>
               <TouchableOpacity onPress={() => TTSP(item.eng)}>
-                <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng}</Text>
+                <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng} 🔊</Text>
               </TouchableOpacity>
               <Text style={tailwind('text-center text-gray-500 text-lg')}>/{item.na}/</Text>
               <Text style={tailwind('text-center text-xl text-red-600 capitalize mt-1')}>--= tab to your answer =--</Text>
@@ -234,7 +234,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
             </View> : randomIndex == 1 ?
               <View style={tailwind('px-3')}>
                 <TouchableOpacity onPress={() => TTSP(item.eng)}>
-                  <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng}</Text>
+                  <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng} 🔊</Text>
                 </TouchableOpacity>
                 <Text style={tailwind('text-center text-gray-500 text-lg')}>/{item.na}/</Text>
                 <Text style={tailwind('text-center text-xl text-red-600 capitalize mt-1')}>--= tab to your answer =--</Text>
@@ -246,7 +246,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
               </View> : randomIndex == 2 ?
                 <View style={tailwind('px-3')}>
                   <TouchableOpacity onPress={() => TTSP(item.eng)}>
-                    <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng}</Text>
+                    <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng} 🔊</Text>
                   </TouchableOpacity>
                   <Text style={tailwind('text-center text-gray-500 text-lg')}>/{item.na}/</Text>
                   <Text style={tailwind('text-center text-xl text-red-600 capitalize mt-1')}>--= tab to your answer =--</Text>
@@ -258,7 +258,7 @@ const ExerciseEach: React.FC<ExerciseEachProps> = ({
                 </View> : randomIndex == 3 ?
                   <View style={tailwind('px-3')}>
                     <TouchableOpacity onPress={() => TTSP(item.eng)}>
-                      <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng}</Text>
+                      <Text style={tailwind('text-green-900 text-center text-2xl font-bold')}>{item.eng} 🔊</Text>
                     </TouchableOpacity>
                     <Text style={tailwind('text-center text-gray-500 text-lg')}>/{item.na}/</Text>
                     <Text style={tailwind('text-center text-xl text-red-600 capitalize mt-1')}>--= tab to your answer =--</Text>
